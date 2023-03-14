@@ -11,4 +11,4 @@ setInterval(function(){
     } */
 }, 1000);
 
-console.log("Segunda Instruccion");
+console.log("Ultima Instruccion");
